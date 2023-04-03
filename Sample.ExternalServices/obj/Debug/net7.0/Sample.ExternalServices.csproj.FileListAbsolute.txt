@@ -1,0 +1,17 @@
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.ExternalServices\bin\Debug\net7.0\Sample.ExternalServices.deps.json
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.ExternalServices\bin\Debug\net7.0\Sample.ExternalServices.dll
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.ExternalServices\bin\Debug\net7.0\Sample.ExternalServices.pdb
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.ExternalServices\bin\Debug\net7.0\Sample.Common.dll
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.ExternalServices\bin\Debug\net7.0\Sample.Model.dll
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.ExternalServices\bin\Debug\net7.0\Sample.Common.pdb
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.ExternalServices\bin\Debug\net7.0\Sample.Model.pdb
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.ExternalServices\obj\Debug\net7.0\Sample.ExternalServices.csproj.AssemblyReference.cache
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.ExternalServices\obj\Debug\net7.0\Sample.ExternalServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.ExternalServices\obj\Debug\net7.0\Sample.ExternalServices.AssemblyInfoInputs.cache
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.ExternalServices\obj\Debug\net7.0\Sample.ExternalServices.AssemblyInfo.cs
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.ExternalServices\obj\Debug\net7.0\Sample.ExternalServices.csproj.CoreCompileInputs.cache
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.ExternalServices\obj\Debug\net7.0\Sample.ExternalServices.csproj.CopyComplete
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.ExternalServices\obj\Debug\net7.0\Sample.ExternalServices.dll
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.ExternalServices\obj\Debug\net7.0\refint\Sample.ExternalServices.dll
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.ExternalServices\obj\Debug\net7.0\Sample.ExternalServices.pdb
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.ExternalServices\obj\Debug\net7.0\ref\Sample.ExternalServices.dll

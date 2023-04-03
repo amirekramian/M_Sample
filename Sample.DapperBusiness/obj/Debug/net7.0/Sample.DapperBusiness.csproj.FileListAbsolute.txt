@@ -1,0 +1,17 @@
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.DapperBusiness\bin\Debug\net7.0\Sample.DapperBusiness.deps.json
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.DapperBusiness\bin\Debug\net7.0\Sample.DapperBusiness.dll
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.DapperBusiness\bin\Debug\net7.0\Sample.DapperBusiness.pdb
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.DapperBusiness\bin\Debug\net7.0\Sample.Common.dll
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.DapperBusiness\bin\Debug\net7.0\Sample.Model.dll
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.DapperBusiness\bin\Debug\net7.0\Sample.Common.pdb
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.DapperBusiness\bin\Debug\net7.0\Sample.Model.pdb
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.DapperBusiness\obj\Debug\net7.0\Sample.DapperBusiness.csproj.AssemblyReference.cache
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.DapperBusiness\obj\Debug\net7.0\Sample.DapperBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.DapperBusiness\obj\Debug\net7.0\Sample.DapperBusiness.AssemblyInfoInputs.cache
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.DapperBusiness\obj\Debug\net7.0\Sample.DapperBusiness.AssemblyInfo.cs
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.DapperBusiness\obj\Debug\net7.0\Sample.DapperBusiness.csproj.CoreCompileInputs.cache
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.DapperBusiness\obj\Debug\net7.0\Sample.DapperBusiness.csproj.CopyComplete
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.DapperBusiness\obj\Debug\net7.0\Sample.DapperBusiness.dll
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.DapperBusiness\obj\Debug\net7.0\refint\Sample.DapperBusiness.dll
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.DapperBusiness\obj\Debug\net7.0\Sample.DapperBusiness.pdb
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.DapperBusiness\obj\Debug\net7.0\ref\Sample.DapperBusiness.dll

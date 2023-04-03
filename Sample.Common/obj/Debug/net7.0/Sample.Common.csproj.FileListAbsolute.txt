@@ -1,0 +1,17 @@
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.Common\bin\Debug\net7.0\Sample.Common.deps.json
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.Common\bin\Debug\net7.0\Sample.Common.dll
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.Common\bin\Debug\net7.0\Sample.Common.pdb
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.Common\bin\Debug\net7.0\Sample.Model.dll
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.Common\bin\Debug\net7.0\Sample.Model.pdb
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.Common\obj\Debug\net7.0\Sample.Common.csproj.AssemblyReference.cache
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.Common\obj\Debug\net7.0\Sample.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.Common\obj\Debug\net7.0\Sample.Common.AssemblyInfoInputs.cache
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.Common\obj\Debug\net7.0\Sample.Common.AssemblyInfo.cs
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.Common\obj\Debug\net7.0\Sample.Common.csproj.CoreCompileInputs.cache
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.Common\obj\Debug\net7.0\Sample.Common.csproj.CopyComplete
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.Common\obj\Debug\net7.0\Sample.Common.dll
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.Common\obj\Debug\net7.0\refint\Sample.Common.dll
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.Common\obj\Debug\net7.0\Sample.Common.pdb
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.Common\obj\Debug\net7.0\ref\Sample.Common.dll
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.Common\obj\Debug\net7.0\Sample.Common.Messages.resources
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.Common\obj\Debug\net7.0\Sample.Common.csproj.GenerateResource.cache

@@ -1,0 +1,15 @@
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.DataAccess\obj\Debug\net7.0\Sample.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.DataAccess\obj\Debug\net7.0\Sample.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.DataAccess\obj\Debug\net7.0\Sample.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.DataAccess\obj\Debug\net7.0\Sample.DataAccess.AssemblyInfo.cs
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.DataAccess\obj\Debug\net7.0\Sample.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.DataAccess\bin\Debug\net7.0\Sample.DataAccess.deps.json
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.DataAccess\bin\Debug\net7.0\Sample.DataAccess.dll
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.DataAccess\bin\Debug\net7.0\Sample.DataAccess.pdb
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.DataAccess\bin\Debug\net7.0\Sample.Model.dll
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.DataAccess\bin\Debug\net7.0\Sample.Model.pdb
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.DataAccess\obj\Debug\net7.0\Sample.DataAccess.csproj.CopyComplete
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.DataAccess\obj\Debug\net7.0\Sample.DataAccess.dll
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.DataAccess\obj\Debug\net7.0\refint\Sample.DataAccess.dll
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.DataAccess\obj\Debug\net7.0\Sample.DataAccess.pdb
+C:\Users\Mina.Dadashi\Desktop\Sample\Sample.DataAccess\obj\Debug\net7.0\ref\Sample.DataAccess.dll
